@@ -1,5 +1,9 @@
 # ChangeLog of Instruction
 
+## 2025-10-27
+- `/docs` フォルダに文書を移動
+- 表現の微修正
+
 ## 2025-10-24
 - add explain team development
 
