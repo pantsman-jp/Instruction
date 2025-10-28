@@ -81,7 +81,8 @@ GitHub でローカルに落としたいリポジトリの URL を取得し、�
 ## 4. チーム開発と GitHub
 これを参考にします。
 
-[うさぎでもわかるチームGitHub開発手順書](https://zenn.dev/taku_sid/articles/20250409_github_team)
+- [うさぎでもわかるチームGitHub開発手順書](https://zenn.dev/taku_sid/articles/20250409_github_team)
+- [初学者向け：GitとGitHubを使ったチーム開発ガイド ～ブランチ作成からプルリク、最終マージまで～](https://qiita.com/free-honda/items/f67236ea732eb7473c86)
 
 端的に言えば、作業ごとにブランチを作り、コミット、プッシュし、プルリクエストを出すと言う流れです。
 
