@@ -1,5 +1,8 @@
 # ChangeLog of Instruction
 
+## 2025-10-28
+- fix some explanation
+
 ## 2025-10-27
 - move `.md` files to `/docs`
 - fix some explanation
