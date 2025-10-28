@@ -2,6 +2,7 @@
 
 ## 2025-10-28
 - fix some explanation
+- add explanation of `git clone`
 
 ## 2025-10-27
 - move `.md` files to `/docs`
